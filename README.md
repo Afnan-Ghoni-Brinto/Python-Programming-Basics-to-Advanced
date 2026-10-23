@@ -56,7 +56,7 @@ Learning and development in progress.
 
 ## 👨‍💻 Author
 
-Your Name
+Afnan-Ghoni-Brinto
 
 ## ⭐ About
 
